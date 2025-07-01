@@ -1,6 +1,6 @@
 RUN_INDENTED = True
 
-message = "running unindented"
+message = "running unindented code"
 
 if RUN_INDENTED:
     message = "running indented"
